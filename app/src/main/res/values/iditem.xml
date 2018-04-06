@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="id_zinvor_spitak_1" type="id"></item>
+    <item name="id_zinvor_spitak_2" type="id"></item>
+    <item name="id_zinvor_spitak_3" type="id"></item>
+    <item name="id_zinvor_spitak_4" type="id"></item>
+    <item name="id_zinvor_spitak_5" type="id"></item>
+    <item name="id_zinvor_spitak_6" type="id"></item>
+    <item name="id_zinvor_spitak_7" type="id"></item>
+    <item name="id_zinvor_spitak_8" type="id"></item>
+
+    <item name="id_zinvor_sev_1" type="id"></item>
+    <item name="id_zinvor_sev_2" type="id"></item>
+    <item name="id_zinvor_sev_3" type="id"></item>
+    <item name="id_zinvor_sev_4" type="id"></item>
+    <item name="id_zinvor_sev_5" type="id"></item>
+    <item name="id_zinvor_sev_6" type="id"></item>
+    <item name="id_zinvor_sev_7" type="id"></item>
+    <item name="id_zinvor_sev_8" type="id"></item>
+
+    <item name="id_navak_spitak_1" type="id"></item>
+    <item name="id_navak_spitak_2" type="id"></item>
+    <item name="id_navak_spitak_3" type="id"></item>
+    <item name="id_navak_spitak_4" type="id"></item>
+    <item name="id_navak_spitak_5" type="id"></item>
+    <item name="id_navak_spitak_6" type="id"></item>
+    <item name="id_navak_spitak_7" type="id"></item>
+    <item name="id_navak_spitak_8" type="id"></item>
+    <item name="id_navak_spitak_9" type="id"></item>
+    <item name="id_navak_spitak_10" type="id"></item>
+
+    <item name="id_navak_sev_1" type="id"></item>
+    <item name="id_navak_sev_2" type="id"></item>
+    <item name="id_navak_sev_3" type="id"></item>
+    <item name="id_navak_sev_4" type="id"></item>
+    <item name="id_navak_sev_5" type="id"></item>
+    <item name="id_navak_sev_6" type="id"></item>
+    <item name="id_navak_sev_7" type="id"></item>
+    <item name="id_navak_sev_8" type="id"></item>
+    <item name="id_navak_sev_9" type="id"></item>
+    <item name="id_navak_sev_10" type="id"></item>
+
+    <item name="id_pix_spitak_1" type="id"></item>
+    <item name="id_pix_spitak_2" type="id"></item>
+    <item name="id_pix_spitak_3" type="id"></item>
+    <item name="id_pix_spitak_4" type="id"></item>
+    <item name="id_pix_spitak_5" type="id"></item>
+    <item name="id_pix_spitak_6" type="id"></item>
+    <item name="id_pix_spitak_7" type="id"></item>
+    <item name="id_pix_spitak_8" type="id"></item>
+    <item name="id_pix_spitak_9" type="id"></item>
+    <item name="id_pix_spitak_10" type="id"></item>
+
+    <item name="id_pix_sev_1" type="id"></item>
+    <item name="id_pix_sev_2" type="id"></item>
+    <item name="id_pix_sev_3" type="id"></item>
+    <item name="id_pix_sev_4" type="id"></item>
+    <item name="id_pix_sev_5" type="id"></item>
+    <item name="id_pix_sev_6" type="id"></item>
+    <item name="id_pix_sev_7" type="id"></item>
+    <item name="id_pix_sev_8" type="id"></item>
+    <item name="id_pix_sev_9" type="id"></item>
+    <item name="id_pix_sev_10" type="id"></item>
+
+    <item name="id_dzi_spitak_1" type="id"></item>
+    <item name="id_dzi_spitak_2" type="id"></item>
+    <item name="id_dzi_spitak_3" type="id"></item>
+    <item name="id_dzi_spitak_4" type="id"></item>
+    <item name="id_dzi_spitak_5" type="id"></item>
+    <item name="id_dzi_spitak_6" type="id"></item>
+    <item name="id_dzi_spitak_7" type="id"></item>
+    <item name="id_dzi_spitak_8" type="id"></item>
+    <item name="id_dzi_spitak_9" type="id"></item>
+    <item name="id_dzi_spitak_10" type="id"></item>
+
+    <item name="id_dzi_sev_1" type="id"></item>
+    <item name="id_dzi_sev_2" type="id"></item>
+    <item name="id_dzi_sev_3" type="id"></item>
+    <item name="id_dzi_sev_4" type="id"></item>
+    <item name="id_dzi_sev_5" type="id"></item>
+    <item name="id_dzi_sev_6" type="id"></item>
+    <item name="id_dzi_sev_7" type="id"></item>
+    <item name="id_dzi_sev_8" type="id"></item>
+    <item name="id_dzi_sev_9" type="id"></item>
+    <item name="id_dzi_sev_10" type="id"></item>
+
+
+
+    <item name="id_taguhi_spitak" type="id"></item>
+    <item name="id_taguhi_spitak1" type="id"></item>
+    <item name="id_taguhi_spitak2" type="id"></item>
+    <item name="id_taguhi_spitak3" type="id"></item>
+    <item name="id_taguhi_spitak4" type="id"></item>
+    <item name="id_taguhi_spitak5" type="id"></item>
+    <item name="id_taguhi_spitak6" type="id"></item>
+    <item name="id_taguhi_spitak7" type="id"></item>
+    <item name="id_taguhi_spitak8" type="id"></item>
+
+
+    <item name="id_taguhi_sev" type="id"></item>
+    <item name="id_taguhi_sev1" type="id"></item>
+    <item name="id_taguhi_sev2" type="id"></item>
+    <item name="id_taguhi_sev3" type="id"></item>
+    <item name="id_taguhi_sev4" type="id"></item>
+    <item name="id_taguhi_sev5" type="id"></item>
+    <item name="id_taguhi_sev6" type="id"></item>
+    <item name="id_taguhi_sev7" type="id"></item>
+    <item name="id_taguhi_sev8" type="id"></item>
+
+    <item name="id_tagavor_spitak" type="id"></item>
+    <item name="id_tagavor_sev" type="id"></item>
+
+
+    <item name="taguhi_zinvor" type="id"></item>
+    <item name="navak_zinvor" type="id"></item>
+    <item name="pix_zinvor" type="id"></item>
+    <item name="dzi_zinvor" type="id"></item>
+
+
+    <item name="idRamka1" type="id"></item>
+    <item name="idRamka2" type="id"></item>
+    <item name="idRamka3" type="id"></item>
+    <item name="idRamka4" type="id"></item>
+    <item name="idRamka5" type="id"></item>
+    <item name="idRamka6" type="id"></item>
+    <item name="idRamka7" type="id"></item>
+    <item name="idRamka8" type="id"></item>
+
+    <item name="ramka_Navak_horizonakan_1" type="id"></item>
+    <item name="ramka_Navak_horizonakan_2" type="id"></item>
+    <item name="ramka_Navak_horizonakan_3" type="id"></item>
+    <item name="ramka_Navak_horizonakan_4" type="id"></item>
+    <item name="ramka_Navak_horizonakan_5" type="id"></item>
+    <item name="ramka_Navak_horizonakan_6" type="id"></item>
+    <item name="ramka_Navak_horizonakan_7" type="id"></item>
+    <item name="ramka_Navak_horizonakan_8" type="id"></item>
+
+    <item name="ramka_Navak_uxxahayac_1" type="id"></item>
+    <item name="ramka_Navak_uxxahayac_2" type="id"></item>
+    <item name="ramka_Navak_uxxahayac_3" type="id"></item>
+    <item name="ramka_Navak_uxxahayac_4" type="id"></item>
+    <item name="ramka_Navak_uxxahayac_5" type="id"></item>
+    <item name="ramka_Navak_uxxahayac_6" type="id"></item>
+    <item name="ramka_Navak_uxxahayac_7" type="id"></item>
+    <item name="ramka_Navak_uxxahayac_8" type="id"></item>
+
+
+    <item name="ramka_Pix_glxavor_1" type="id"></item>
+    <item name="ramka_Pix_glxavor_2" type="id"></item>
+    <item name="ramka_Pix_glxavor_3" type="id"></item>
+    <item name="ramka_Pix_glxavor_4" type="id"></item>
+    <item name="ramka_Pix_glxavor_5" type="id"></item>
+    <item name="ramka_Pix_glxavor_6" type="id"></item>
+    <item name="ramka_Pix_glxavor_7" type="id"></item>
+    <item name="ramka_Pix_glxavor_8" type="id"></item>
+
+    <item name="ramka_Pix_ojandak_1" type="id"></item>
+    <item name="ramka_Pix_ojandak_2" type="id"></item>
+    <item name="ramka_Pix_ojandak_3" type="id"></item>
+    <item name="ramka_Pix_ojandak_4" type="id"></item>
+    <item name="ramka_Pix_ojandak_5" type="id"></item>
+    <item name="ramka_Pix_ojandak_6" type="id"></item>
+    <item name="ramka_Pix_ojandak_7" type="id"></item>
+    <item name="ramka_Pix_ojandak_8" type="id"></item>
+
+    <item name="ramka_Dzi_1" type="id"></item>
+    <item name="ramka_Dzi_2" type="id"></item>
+    <item name="ramka_Dzi_3" type="id"></item>
+    <item name="ramka_Dzi_4" type="id"></item>
+    <item name="ramka_Dzi_5" type="id"></item>
+    <item name="ramka_Dzi_6" type="id"></item>
+    <item name="ramka_Dzi_7" type="id"></item>
+    <item name="ramka_Dzi_8" type="id"></item>
+
+    <item name="ramka_Tagavor_1" type="id"></item>
+    <item name="ramka_Tagavor_2" type="id"></item>
+    <item name="ramka_Tagavor_3" type="id"></item>
+    <item name="ramka_Tagavor_4" type="id"></item>
+    <item name="ramka_Tagavor_5" type="id"></item>
+    <item name="ramka_Tagavor_6" type="id"></item>
+    <item name="ramka_Tagavor_7" type="id"></item>
+    <item name="ramka_Tagavor_8" type="id"></item>
+    <item name="ramka_Tagavor_9" type="id"></item>
+    <item name="ramka_Tagavor_10" type="id"></item>
+
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

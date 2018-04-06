@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="450dp"
+    android:background="@drawable/shape_dialog"
+   android:layout_gravity="center"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:orientation="vertical"
+        android:background="@drawable/papirus"
+        android:layout_gravity="center">
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="50dp"
+        android:text=""
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/text1"
+        android:textAppearance="?android:attr/textAppearanceLarge">
+    </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="@string/dialog_end_game_textView2"
+                android:textColor="@color/text1"
+                android:textSize="30sp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:id="@+id/btnNewGAme"
+                android:layout_marginTop="70dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_marginRight="70dp"
+                android:layout_marginLeft="70dp"
+                android:text="@string/dialog_end_game_textView3"
+                android:textSize="30sp"
+                android:textColor="@color/text1"
+                android:id="@+id/btnMenu"
+                android:layout_marginTop="70dp"/>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
